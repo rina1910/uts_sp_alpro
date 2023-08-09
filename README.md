@@ -6,7 +6,7 @@
 | <strong>NIM</strong>     | <strong>312010190</strong>       |
 | <strong>Kelas</strong>   | <strong>TI.20.A.1</strong>        |
 
-![](Soal_Tugas_Sp.pdf)
+[Soal UTS Sp](Soal_Tugas_Sp.pdf)
 Berikut adalah implementasi algoritma matriks identitas berordo n dalam bahasa pemrograman Python dan flowchart:
 
 <b>Pseudo Code</b>
