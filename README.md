@@ -7,7 +7,7 @@
 | <strong>Kelas</strong>   | <strong>TI.20.A.1</strong>        |
 
 [Soal UTS Sp](Soal_Tugas_Sp.pdf)
-Berikut adalah implementasi algoritma matriks identitas berordo n dalam bahasa pemrograman Python dan flowchart:
+<p>Berikut adalah implementasi algoritma matriks identitas berordo n dalam bahasa pemrograman Python dan flowchart:</p>
 
 <b>Pseudo Code</b>
 ```
@@ -26,4 +26,5 @@ print_identity_matrix(n)
 ```
 
 <b>Flowchart:</b>
-![](flowchart.png)
+![Versi Mermaid](flowchart.png)
+![Versi PlanUML](flowchart1.png)
